@@ -28,8 +28,6 @@ Aspiring Software Engineer
 
 ## 👩‍💻 About Me
 
-I am a **motivated B.Tech Computer Science and Engineering student** with a strong passion for **software development, full-stack web technologies, and real-world problem solving**.
-
 I enjoy building **responsive, user-centric applications**, working with **databases**, and writing **clean, maintainable code**. I am continuously strengthening my skills in modern technologies and actively preparing for a career as a **Software Engineer**.
 
 ---
