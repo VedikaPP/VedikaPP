@@ -19,9 +19,9 @@ Aspiring Software Engineer
 <!-- Female Engineer Working on Laptop (Auto-play GIF) -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHl6ZHk3eWlwdjBsNjk4d3VjOXRmMnd4Yzgza3Rrc3Zwa3FzYWs2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" 
     width="360" 
-    alt="Female software engineer working on laptop"/>
+    alt="software engineer "/>
 </p>
 
 ---
