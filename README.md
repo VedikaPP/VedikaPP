@@ -41,13 +41,12 @@ I enjoy building **responsive, user-centric applications**, working with **datab
 - **EcoCart – Sustainable Shopping Assistant**  
   A web platform that encourages eco-friendly shopping by recommending sustainable alternatives.  
   🌐 Live Project: https://cloudproject-isgh.onrender.com/prabal.html
-
-  - **Bus Pass Management System (BPMS)**  
+- **Bus Pass Management System (BPMS)**  
   A full-stack web application for managing student bus passes, bus categories, drivers, and routes.  
   Features include:
   - **Student Panel:** Login with PRN, view bus pass, search pass, forgot password.  
   - **Admin Panel:** Manage bus categories, drivers, routes, and student passes.
-  **Pharmacy Management System**  
+- **Pharmacy Management System**  
   A web-based application developed using JSP, MySQL, and Apache Tomcat to manage pharmacy operations.
   
 
