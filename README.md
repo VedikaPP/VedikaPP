@@ -100,21 +100,7 @@ I enjoy building **responsive, user-centric applications**, working with **datab
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vedikapp&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedikapp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedikapp&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
 ✨ Thank you for visiting my GitHub profile ✨  
