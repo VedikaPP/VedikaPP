@@ -50,7 +50,7 @@ I enjoy building **responsive, user-centric applications**, working with **datab
   Features include:
   - **Student Panel:** Login with PRN, view bus pass, search pass, forgot password.  
   - **Admin Panel:** Manage bus categories, drivers, routes, and student passes.
-  - 
+    
 - **Pharmacy Management System**  
   A web-based application developed using JSP, MySQL, and Apache Tomcat to manage pharmacy operations.
   
