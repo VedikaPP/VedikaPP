@@ -39,6 +39,7 @@ I enjoy building **responsive, user-centric applications**, working with **datab
   Automates billing by extracting product data from images using image processing techniques.
   
 - **🏠 Smart Home and Alert System (IoT)**
+  
   An IoT-based Smart Home and Alert System using Raspberry Pi Pico W that detects motion via PIR/IR sensors and sends real-time SMS alerts using Twilio.
 
 - **EcoCart – Sustainable Shopping Assistant**  
