@@ -15,7 +15,7 @@ Aspiring Software Engineer
 <!-- Female Engineer Working on Laptop (Auto-play GIF) -->
 <p align="center">
   <img 
-    src="https://tenor.com/en-IN/view/ahagon-new-game-huh-what-confused-gif-17251050" 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk0bTR3ZGd0dzZwZWV4Z2ZoYmc1enR6djFrcmc2Z29nNDhndmUwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" 
     width="360" 
     alt="software engineer "/>
 </p>
