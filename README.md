@@ -30,7 +30,7 @@ I enjoy building **responsive, user-centric applications**, working with **datab
 
 ## 💼 Work & Projects
 
-🔭 **Currently Working On**
+
 - **Billing Automation using Image Recognition**  
   Automates billing by extracting product data from images using image processing techniques.
   
@@ -52,6 +52,7 @@ I enjoy building **responsive, user-centric applications**, working with **datab
   
 
 🌱 **Currently Learning**
+- Python
 - React.js  
 - TypeScript  
 - Component-based frontend architecture
@@ -62,8 +63,8 @@ I enjoy building **responsive, user-centric applications**, working with **datab
 
 - **Programming Languages:** Java, C, Python, JavaScript, TypeScript  
 - **Web Technologies:** HTML5, CSS3, Bootstrap, React.js, PHP  
-- **Databases:** MySQL, SQL  
-- **Tools & Platforms:** Git, GitHub, Firebase, Flutter, OpenCV  
+- **Databases:** MySQL, SQL, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, VS Code 
 - **Core CS Concepts:** OOP, DBMS, SDLC, REST APIs  
 - **Strengths:** Problem Solving, Team Collaboration, Quick Learner
 
